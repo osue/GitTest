@@ -6,7 +6,6 @@ fun main(args: Array<String>) {
 
     v1.fun1()
     v2.fun1()
-
+    one line 
 
 }
-jdk
