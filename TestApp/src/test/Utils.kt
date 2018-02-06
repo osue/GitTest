@@ -6,3 +6,4 @@ fun supermetod1() {
 fun supermetod2() {
     println("что-то умное")
 }
+
